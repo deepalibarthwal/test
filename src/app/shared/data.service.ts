@@ -6,7 +6,7 @@ export class DataService {
     constructor() { }
     
     getProjectName() {
-        return 'Angular Bare Bones test13';
+        return 'Angular Bare Bones test14';
     }
 
 }
